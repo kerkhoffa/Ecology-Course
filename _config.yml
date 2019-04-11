@@ -11,7 +11,7 @@ permalink:        pretty
 # Setup
 title:            Ecology
 description:      'The science of how nature works'
-url:              http://www.datacarpentry.org/Ecology-Course
+url:              https://kerkhoffa.github.io/Ecology-Course
 baseurl:          /Ecology-Course
 email:            kerkhoffa@kenyon.edu
 feedbackurl:      
