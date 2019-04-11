@@ -22,3 +22,5 @@ author:
 github:
   repo:           https://github.com/kerkhoffa/Ecology-Course
   #               Be sure the 'Issues' feature is activated in 'Settings'
+
+theme: jekyll-theme-dinky
