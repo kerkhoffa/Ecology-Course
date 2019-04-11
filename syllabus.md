@@ -1,19 +1,16 @@
 ---
 layout: page
 title: Syllabus
-catalog: WIS 6934
-credits: 3
-semester: Fall 2018
-professor: Dr. Ethan White
-office: Room 1 in Building 150 (just north of Newins-Zeigler)
-email: ethanwhite@ufl.edu
-phone: 352-294-2081
-schedule: ['Tuesdays, 12:50-1:40', 'Fridays, 11:45-1:40']
-location: 219 Newins-Ziegler Hall
-office_hours: Monday 2-3:15
-office_hours_location: Newins-Zeigler 203
-TA: Andrew Marx
-TA_email: andrewjmarx@ufl.edu
+catalog: BIOL 228
+credits: 0.5
+semester: Fall 2019
+professor: Dr. Drew Kerkhoff
+office: Higley 301
+email: kerkhoffa@kenyon.edu
+phone: 740-427-5734
+schedule: ['Tuesdays & Thursdays, 9:40-11:00']
+location: TBD
+office_hours: TBD
 ---
 
 ## Course
@@ -28,10 +25,10 @@ TA_email: andrewjmarx@ufl.edu
 
 Office: {{ page.office }}
 
-Email (best way to contact us):
+Email (best means of contact):
 [{{ page.email }}](mailto:{{ page.email }})
 
-Phone: {{ page.phone }}
+Office Phone: {{ page.phone }}
 
 
 ### Location
@@ -48,20 +45,9 @@ Phone: {{ page.phone }}
 
 ### Office Hours
 
-Times: {{ page.office_hours }}
+{{ page.office_hours }}
 
-Location: {{ page.office_hours_location }}
-
-Or by appointment. *Note: my schedule gets very busy during the semester so
-please try to schedule appointments as far in advance as possible. In general it
-will be very difficult to set up appointments less than 24 hours in advance.*
-
-
-### Teaching Assistant
-
-{{ page.TA }}
-
-Email: [{{ page.TA_email }}](mailto:{{ page.TA_email }})
+Or by appointment.
 
 
 ### Website
@@ -79,205 +65,129 @@ Email: [{{ page.email }}](mailto:{{ page.email }})
 
 ### Required Texts
 
-There is no required text book for this class.
+The main text for this class is Hacker, Bowman, and Cain's *Ecology* (4th Edition)
 
-All needed material is openly available on the course website. If you are
-interested in additional reading on the topics we are covering I highly
-recommend [R for Data Science](https://r4ds.had.co.nz/), which is freely
-available on the web.
+Much additional material is openly available on the course website. Much of it is 
+drawn from [Nature Knowledge Project: Ecology](https://www.nature.com/scitable/knowledge/ecology-102), 
+which is freely available on the web.
 
 
 ### Course Description
 
-Computers are increasingly essential to the study of all aspects of
-biology. Data management skills are needed for entering data without errors,
-storing it in a usable way, and extracting key aspects of the data for
-analysis. Basic programming is required for everything from accessing and
-managing data, to statistical analysis, to modeling. This course will provide an
-introduction to data management, manipulation, and analysis, with an emphasis on
-biological problems. Class will typically consist of short introductions or
-question & answer sessions, followed by hands on computing exercises. The course
-will be taught using R and SQLite, but the concepts learned will easily apply to
-all programming languages and database management systems. No background in
-programming or databases is required.
+Ecology is the study of the distribution and abundance of organisms and the structure and 
+dynamics of ecosystems. Topics will bioclimatology, environmental physiology, population dynamics and
+species interactions, community assembly, energy flow, nutrient cycling, and the biodiversity,
+and functioning of the global ecosystem. Most of the focus is on terrestrial systems, but we will 
+consider the freshwater and marine ecosystems as well. Our studies will be motivated by the major ecological
+challenges of the Anthropocene: biodiversity loss and climate change.
 
 
-### Prerequisite Knowledge and Skills
+### Prerequisite Knowledge, Skills, and Motivation
 
-Knowledge of basic biology.
-
-
-### Purpose of Course
-
-In this course you will learn all of the fundamental aspects of computer
-programming that are necessary for conducting biological research. By the end of
-the course you will be able to use these tools to import data into R, perform
-analysis on that data, and export the results to graphs, text files, and
-databases. By learning how to get the computer to do your work for you, you will
-be able to do more science faster.
+Knowledge of basic biology, a strong interest in developing a scientific, quantitative understanding 
+of how nature works, and a desire to participate in and reflect on your own learning process.
 
 
-### Course Objectives and Goals
+### Course Goals and Methods
 
-Students completing this course will be able to:
+Through this course you will learn to:
+* Explain and predict ecological phenomena at multiple scales and levels of organization.
+* Hone your skills in reading primary literature, and communicating its insights to multiple audiences.
+* Formulate ecological questions and propose ways of answering them.
 
-* Create well structured databases
-* Extract information from databases
-* Write simple computer programs in R
-* Automate data analysis
-* Apply these tools to address biological questions
-* Apply general data management and analysis concepts to other programming
-  languages and database management systems
+These skills will be achieved through readings, discussions, lectures, homework and in-class problem sets, 
+writing, and at least some time outside, looking at nature. We will examine the primary literature of 
+ecology, with a focus on translating technical communication into more accessible forms. In addition
+to a generalized understanding of the natural history of Earth and her organisms, ecology also incorporates 
+varied field, laboratory, mathematical, statistical, and computational approaches, but no prior expertise is 
+assumed. I will give focus to our ecological studies, assist you in attaining your own understanding of the 
+subject, and provide both formal and informalfeedback and mentorship.
 
+**Our roles require that all of us come to class sessions prepared.** 
 
-### How this course relates to the Student Learning Outcomes in Wildlife Ecology and Conservation
+### How this course relates to the Biology and Environmental Studies majors.
 
-This course contributes to the 'Quantitative Skills' and 'Conducting and
-Analyzing Independent/Original Research' Student Learning Outcomes specified in
-the
-[Ph.D. and MS in Wildlife Ecology and Conservation Academic Assessment Plans](http://assessment.aa.ufl.edu/Data/Sites/22/media/2013-14gaap/cals/2013-14-cals-wildlife-ecol-and-consvn-phd-aap.pdf),
-by providing students the skills and knowledge they need to manage and analyze
-the data used in research.
-
-
-### Teaching Philosophy
-
-This class is taught using a flipped, learner-centered, approach, because
-learning to program and work with data requires actively working on
-computers. Flipped classes work well for all kinds of content, but I think they
-work particularly well for computer oriented classes. If you're interested in
-knowing more take a look at this great
-[info-graphic](https://www.knewton.com/flipped-classroom-2/).
-
-
-### Instructional Methods
-
-As a flipped classroom, students are provided with either reading or video
-material that they are expected to view/read prior to class. Classes will
-involve brief refreshers on new concepts followed by working on exercises in
-class that cover that concept. While students are working on exercises the
-instructor will actively engage with students to help them understand material
-they find confusing, explain misunderstandings and help identify mistakes that
-are preventing students from completing the exercises, and discuss novel
-applications and alternative approaches to the data analysis challenges students
-are attempting to solve. For more challenging topics class may start with 20-30
-minute demonstrations on the concepts followed by time to work on exercises.
+This course satisfies upper-level lecture credit in Environmental Biology for the 
+[Biology Major](https://www.kenyon.edu/directories/offices-services/registrar/course-catalog-2/course-requirements/requirements-biology/#major), and as an elective Living Systems course for the
+[ENVS Major](https://www.kenyon.edu/directories/offices-services/registrar/course-catalog-2/course-requirements/requirements-environmental-studies/).
 
 
 ## Course Policies
 
 
-### Attendance Policy
+### Attendance
 
-Attendance will not be taken or factor into the grades for this class. However,
-experience suggests that students who regularly miss class struggle to learn the
-material.
+Class attendance is mandatory and unexcused absences will negatively affect your grade. In-class work 
+missed due to unexcused absences may not be made up without expressed consent of the instructor.
 
+### Excused Absences
 
-### Quiz/Exam Policy
+In order to have an absence excused, you must contact me *before* you miss a class (email is best). If 
+you are an athlete or a member of another organization that travels, it is your responsibility (not 
+your coach’s or advisor’s) to make arrangements with me concerning missed classes at least one meeting 
+before the missed class session. Failure to do so may result in unexcused absences.
 
-There are no quizzes or exams in this course.
+### Late Work
 
+Every attempt should be made to submit assignments on time because assignments build on one another 
+and it can be hard to catch up if you fall behind. That being said, *life happens* and therefore 
+there is an automatic grace period of 48 hours for the submission of late assignments with no need
+to request an extension. Reasonable requests for longer extensions will also be granted, especially if
+the requests come before the assignment is due.
 
-### Attendance policy
-
-Attendance is not required but it is recommended that you attend class as often as
-possible to get the most out of the course.
-
-
-### Make-up policy
-
-Life happens and therefore there is an automatic grace period of 48 hours for
-the submission of late assignments with no need to request an extension.
-However, it is highly recommended that you submit assignments on time when
-possible because assignments build on one another and it can be hard to catch up
-if you fall behind. Reasonable requests for longer extensions will also be granted.
-Assignments turned in after the 48 hour grace period without an extension will be
-be graded with a 20% penalty.
+Assignments turned in after the 48 hour grace period without an extension will be graded with an inital 
+20% penalty, further decaying at a rate of 5% per day.
 
 
-### Assignment policy
+### Turning in Assignments
 
-Assignments are due Monday night by 11:59 pm Eastern Time. Assignments should be
-submitted via Canvas. This allows you to be finished with one week's material
-before starting the next week's material.
+Unless instructed otherwise, all assignments will be turned in via Moodle.
 
 
-### Course Technology
+### Accommodating Disabilities and Learning Differences
 
-Students are required to provide their own laptops and to install free and open
-source software on those laptops (see [Setup]({{ site.baseurl }}/computer-setup)
-for installation instructions). Support will be provided by the instructor in
-the installation of required software. If you don't have access to a laptop
-please contact the instructor and they will do their best to provide you with
-one.
+I want to help learn and will happily work with you to make the learning environment 
+equitable for you and others.
 
-
-### Materials and Supplies Fees
-
-There are no materials and supplies fees for this course.
+Students who anticipate they may need accommodations in this course because of the impact 
+of a learning, physical, or psychological disability are encouraged to meet with me privately 
+early in the semester. In addition, you must contact the [Office of Student Accessibility and Support Services](https://www.kenyon.edu/directories/offices-services/student-accessibility-support-services/) as soon as 
+possible, to register for reasonable academic accommodations. Early contact will help to avoid unnecessary
+inconvenience and delays.
 
 
-## UF Policies
+### Academic Honesty and Plagiarism
+
+I expect all of us to honestly represent our own work and understanding, and to cite the work of others 
+appropriately.
+
+Kenyon College is, at the core, an intellectual community of scholars – students and faculty – 
+engaged in the free and open exchange of ideas. Critical to this lively exchange is the academic 
+integrity of our work, both inside and outside the classroom. It is the responsibility of each 
+student to learn and practice the proper ways of documenting and acknowledging those whose ideas 
+and words you have drawn upon (see course catalog pages on [Academic Integrity](https://www.kenyon.edu/directories/offices-services/registrar/course-catalog-2/administrative-matters/academic-integrity-and-questions-of-plagiarism/)).  
+
+Ignorance and carelessness are not excuses for academic dishonesty.  If you are uncertain about the expectations for academic honesty in this class, especially with group work, please ask for clarification.
 
 
-### University Policy on Accommodating Students with Disabilities
+### Appropriate Conduct
 
-Students with disabilities requesting accommodations should first register with
-the Disability Resource Center (352-392-8565; http://www.dso.ufl.edu/drc/) by
-providing appropriate documentation. Once registered, students will receive an
-accommodation letter which must be presented to the instructor when requesting
-accommodation. Students with disabilities should follow this procedure as early
-as possible in the semester. 
+I want to foster an inclusive, welcoming, challenging, and respectful community in our class.
 
-My policy: If you are in my class I want to help learn and will happily work
-with you to make the learning environment equitable for you and others.
+Kenyon seeks to provide an environment that is free of bias, discrimination, and harassment 
+based on sex; racial, ethnic, national, religious, or cultural background; sexual orientation; 
+disability status; gender identity or expression; veteran status; or political viewpoint. As 
+expressed by President Decatur, a central principle of a rigorous liberal education in a diverse 
+community is to “Challenge rigorously, but with respect.” We will abide by this principle in this class.
 
-
-### University on Course Evaluations
-
-Students are expected to provide feedback on the quality of instruction in this
-course by completing online evaluations at https://evaluations.ufl.edu.
-Evaluations are typically open during the last two or three weeks of the
-semester, but students will be given specific times when they are open. Summary
-results of these assessments are available to students at
-https://evaluations.ufl.edu/results/.
+If you have been the victim of sexual harassment, misconduct, or assault, I encourage you to report. 
+If you report this to me or any other faculty member, as a "responsible party," the professor must notify 
+Kenyon's Civil Rights/Title IX coordinator about the basic facts of the incident (you may choose whether 
+you or anyone involved is identified by name). For more information, consult the [Kenyon Office for Civil Rights](https://www.kenyon.edu/directories/offices-services/ocr/).
 
 
-### University Policy on Academic Misconduct
-
-Academic honesty and integrity are fundamental values of the University
-community. Students should be sure that they understand the UF Student Honor
-Code at http://www.dso.ufl.edu/students.php.
 
 
-### Netiquette and Communication Courtesy
-
-All members of the class are expected to follow rules of common
-courtesy in all email messages, threaded discussions and chats.
-
-
-### University Honesty Policy
-
-UF students are bound by The Honor Pledge which states, “We, the members of the University of Florida community, pledge to hold ourselves and our peers to the highest standards of honor and integrity by abiding by the Honor Code. On all work submitted for credit by students at the University of Florida, the following pledge is either required or implied: “On my honor, I have neither given nor received unauthorized aid in doing this assignment.” The Honor Code (https://www.dso.ufl.edu/sccr/process/student-conduct-honor-code/) specifies a number of behaviors that are in violation of this code and the possible sanctions. Furthermore, you are obligated to report any condition that facilitates academic misconduct to appropriate personnel. If you have any questions or concerns, please consult with the instructor or TAs in this class.
-
-
-### Software Use
-
-All faculty, staff, and students of the University are required and expected to
-obey the laws and legal agreements governing software use.  Failure to do so can
-lead to monetary damages and/or criminal penalties for the individual violator.
-Because such violations are also against University policies and rules,
-disciplinary action will be taken as appropriate.  We, the members of the
-University of Florida community, pledge to uphold ourselves and our peers to the
-highest standards of honesty and integrity.
-
-
-### Student Privacy
-
-There are federal laws protecting your privacy with regards to grades earned in
-courses and on individual assignments.  For more information, please see:
-http://registrar.ufl.edu/catalog0910/policies/regulationferpa.html
 
 
 ## Grading Policies
