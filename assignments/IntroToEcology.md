@@ -1,7 +1,7 @@
 ---
 layout: page
 element: assignment
-title: Computational Projects
+title: Intro to Ecology
 language: R
 exercises: ['Climate Space', 'Megafaunal Extinction']
 points: [40, 60]
