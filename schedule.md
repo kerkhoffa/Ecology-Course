@@ -1,13 +1,19 @@
 ---
 layout: page
 title: Assignment Schedule
-assignments: ['Data Entry and Storage', 'Introduction to R and RStudio',
-'Working with Data', 'Data Visualization', 'Working with Spatial Data',
-'Computational Projects', 'Programming Fundamentals 1',
-'Programming Fundamentals 2', 'Putting It All Together',
-'Version Control', 'Getting Data', 'Knitr',
-'Working with Databases', 'tidyr', 'Image Processing and Analysis',
-'Web Applications Using Shiny']
+assignments: ['Intro to Ecology',
+'Climate and Biomes',
+'Temperature and Water Relations',
+'Energy and Nutrient Relations',
+'Population Distribution and Growth',
+'Population Interactions and Competition',
+'Exploitative Interactions',
+'Mutualistic Interactions',
+'Species Interactions and Community Structure',
+'Species Diversity and Geographic Ecology',
+'Primary and Seconday Production',
+'Nutrient Cycling and Retention',
+'Global Ecology']
 ---
 
 [Assignment submission & checklist]({{ site.baseurl }}/materials/turn-in-checklist)
