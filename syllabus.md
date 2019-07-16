@@ -65,9 +65,9 @@ Email: [{{ page.email }}](mailto:{{ page.email }})
 
 ### Required Texts
 
-The main text for this class is Hacker, Bowman, and Cain's *Ecology* (4th Edition)
+The main text for this class is Molles and Sher's [Ecology: Concepts and Applications](https://www.amazon.com/Ecology-Concepts-Applications-Manuel-Molles/dp/1260085155/ref=dp_ob_title_bk) (8th Ed., McGraw Hill)
 
-Much additional material is openly available on the course website. Much of it is drawn from [Nature Knowledge Project: Ecology](https://www.nature.com/scitable/knowledge/ecology-102), which is freely available on the web.
+Additional materials are openly available through the course website. Much of it is drawn from [Nature Knowledge Project: Ecology](https://www.nature.com/scitable/knowledge/ecology-102), which is freely available on the web. We will also be reading several papers from the primary literature.
 
 
 ### Course Description
@@ -77,7 +77,7 @@ Ecology is the science of how nature works. In practoce ecologists study of the 
 
 ### Prerequisite Knowledge, Skills, and Motivation
 
-Knowledge of basic biology, a strong interest in developing a scientific, quantitative understanding of how nature works, and a desire to participate in and reflect on your own learning process.
+You should come to this course with knowledge of basic biology, a strong interest in developing a scientific, quantitative understanding of how nature works, and a desire to participate in and reflect on your own learning process.
 
 
 ### Course Goals and Methods
