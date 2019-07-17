@@ -7,12 +7,14 @@ language: R
 
 * Tuesday
 
-  * Molles and Sher, Ch. 9.1, 9.3
-  * 
+  * Molles and Sher, Ch. 10.3 - 10.5, 11.1 - 11.2
 
 * Thursday
 
-  * Molles and Sher, Ch. 10.3 - 10.5, 11.1 - 11.2
+  * Molles and Sher, Ch. 11 - Applications: The Human Population
+  * [Gerland et al. (2014) World population stabilization unlikely this century](https://science.sciencemag.org/content/346/6206/234.full)
+  * [News essay on Gerland (Coghlan, New Scientist)](https://www.newscientist.com/article/dn26231-global-population-may-boom-well-beyond-the-year-2050/#.VB1bjiuSy61)
+  * [UN 2012 Review of Earth's Human Carrying Capacity](https://na.unep.net/geas/archive/pdfs/geas_jun_12_carrying_capacity.pdf)
 
 * Additional information
 
