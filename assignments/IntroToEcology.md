@@ -2,16 +2,16 @@
 layout: page
 element: assignment
 title: Intro to Ecology
-language: R
-exercises: ['Climate Space', 'Megafaunal Extinction']
-points: [40, 60]
+language:
+exercises:
+points:
 ---
 
-#### Learning Objectives
+#### Objectives
 
-> Following this assignment students should be able to:
+> Before class on Thursday
 >
-> - properly structure a computational project
+> - effectively communicate their 
 > - use good style
 > - start to build more complex computational tasks
 
