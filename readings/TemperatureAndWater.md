@@ -7,12 +7,15 @@ language: R
 
 * Tuesday
 
-  * Molles and Sher, Ch 5 (Focus on terrestrial environments)
+  * Molles and Sher, Ch 5.1, 5.4 (only "Balancing Heat Gain and Heat Loss")
   * [NKP: Physiological Optima and Critical Limits (Miller and Stillman 2012)](https://www.nature.com/scitable/knowledge/library/physiological-optima-and-critical-limits-45749376)
+  * Molles and Sher, Ch. 6.1 - 6.2 (Focus on terrestrial environments)
 
 * Thursday
-
-  * Molles and Sher, Ch. 6 (Focus on terrestrial environments)
+ 
+  * Molles and Sher, Ch. 9.1
+  * [Introduction to Species Distribution Models (Biodiversity and Climate Change Virtual Laboratory)](https://support.bccvl.org.au/support/solutions/articles/6000161289-ecological-theory-of-species-distribution-models)
+  * [Theory of Species Distribution Models (BCCVL)](https://support.bccvl.org.au/support/solutions/articles/6000161289-ecological-theory-of-species-distribution-models)
   
 * Optional Resources
 
