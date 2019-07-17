@@ -1,7 +1,7 @@
 ---
 layout: page
 element: reading
-title: Population Distribution and Growth
+title: Population Growth
 language: R
 ---
 
