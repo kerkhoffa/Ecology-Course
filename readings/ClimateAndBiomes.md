@@ -16,4 +16,4 @@ language: R
   
 * Optional Resources
 
-  * * [Crash Course Biology: Ecology](https://www.youtube.com/watch?v=izRvPaAWgyw&list=PL3EED4C1D684D3ADF&index=40)
+  * [Crash Course Biology: Ecology](https://www.youtube.com/watch?v=izRvPaAWgyw&list=PL3EED4C1D684D3ADF&index=40)
