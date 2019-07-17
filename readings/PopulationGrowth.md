@@ -21,3 +21,4 @@ language: R
   * [NKP: How Populations Grow: The Exponential and Logistic Equations (Vandermeer 2012)](https://www.nature.com/scitable/knowledge/library/how-populations-grow-the-exponential-and-logistic-13240157)
   * [NKP: Survivorship Curves (Rauschert 2010)](https://www.nature.com/scitable/knowledge/library/survivorship-curves-16349555)
   * [Crash Course Ecology: Population Ecology](https://www.youtube.com/watch?v=RBOsqmBQBQk&list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX&index=2)
+  * [Crash Course Ecology: Human Population Growth](https://www.youtube.com/watch?v=E8dkWQVFAoA&list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX&index=3)
