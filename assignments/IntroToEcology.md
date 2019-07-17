@@ -2,7 +2,7 @@
 layout: page
 element: assignment
 title: 'Intro to Ecology'
-language:
+language: R
 exercises:
 points:
 ---
