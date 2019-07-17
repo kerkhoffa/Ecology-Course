@@ -12,7 +12,7 @@ language: R
 
 * Thursday
 
-  * Molles and Sher, Ch. 6 (Focus on terrestrical environments)
+  * Molles and Sher, Ch. 6 (Focus on terrestrial environments)
   
 * Optional Resources
 
