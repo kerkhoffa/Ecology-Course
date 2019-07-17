@@ -1,7 +1,7 @@
 ---
 layout: page
 element: lecture
-title: Intro to Ecology
+title: 'Intro to Ecology'
 language:
 ---
 
