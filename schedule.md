@@ -2,9 +2,9 @@
 layout: page
 title: Assignment Schedule
 assignments: ['Intro to Ecology',
-'Climate and Biomes',
-'Temperature Relations',
-'Water, Energy, and Nutrient Relations',
+'Climate and Biomes', 'Vegetation Climate Feedbacks',
+'Temperature and Water Relations',
+'Energy and Nutrient Relations',
 'Population Distribution and Growth',
 'Population Interactions and Competition',
 'Exploitative Interactions',
