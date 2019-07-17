@@ -5,7 +5,7 @@ title: Intro to Ecology
 language:
 ---
 
-### Reading for Thursday
+### Reading
 - Molles and Sher, Chapter 1.
 
 ### Additional Resources (optional)
