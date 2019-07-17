@@ -2,7 +2,7 @@
 layout: page
 element: reading
 title: 'Intro to Ecology'
-language:
+language: R
 ---
 
 #### Thursday
