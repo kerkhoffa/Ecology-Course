@@ -13,3 +13,7 @@ language: R
 * Thursday
 
   * Molles and Sher, Ch. 2.2 - 2.3
+  
+* Optional Resources
+
+  * * [Crash Course Biology: Ecology](https://www.youtube.com/watch?v=izRvPaAWgyw&list=PL3EED4C1D684D3ADF&index=40)
