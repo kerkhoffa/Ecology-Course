@@ -1,7 +1,7 @@
 ---
 layout: page
 element: reading
-title: Interactions and Competition
+title: Population Interactions and Competition
 language: R
 ---
 
@@ -14,4 +14,6 @@ language: R
 
 * Thursday
 
-  * Fall Break
+  * [Bestion et al. 2018 Metabolic traits predict the effects of warming on phytoplankton competition](https://onlinelibrary-wiley-com.libproxy.kenyon.edu/doi/pdf/10.1111/ele.12932)
+
+  
