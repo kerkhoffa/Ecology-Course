@@ -18,5 +18,5 @@ language: R
 
 * Optional Resources
 
-  * [NKP: Energy Economics in Ecosystems (Beman 2010)]](https://www.nature.com/scitable/knowledge/library/energy-economics-in-ecosystems-13254442)
+  * [NKP: Energy Economics in Ecosystems (Beman 2010)](https://www.nature.com/scitable/knowledge/library/energy-economics-in-ecosystems-13254442)
   * 
