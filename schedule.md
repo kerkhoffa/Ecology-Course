@@ -11,7 +11,7 @@ assignments: ['Intro to Ecology',
 'Mutualistic Interactions',
 'Species Interactions and Community Structure (Exam 2)',
 'Species Diversity and Geographic Ecology',
-'Primary and Seconday Production',
+'Primary and Secondary Production',
 'Nutrient Cycling and Retention',
 'Global Ecology']
 ---
