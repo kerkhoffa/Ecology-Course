@@ -1,7 +1,7 @@
 ---
 layout: page
 element: reading
-title: Image Processing and Analysis
+title: Species Diversity and Geographic Ecology
 language: R
 ---
 
