@@ -12,8 +12,4 @@ language: R
   
 * Thursday
 
-  * 
-
-* Readings (optional)
-
-  * [Rmarkdown Getting Started](https://rmarkdown.rstudio.com/lesson-1.html)
+  * [Makkonen et al. 2012 Highly consistent effects of plant litter identity and functional traits on decomposition across a latitudinal gradient](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1461-0248.2012.01826.x)
