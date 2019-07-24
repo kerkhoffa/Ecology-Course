@@ -13,7 +13,8 @@ points:
 >
 > - have a basic grasp of the scope and complexity of ecology 
 > - articulate the importance of both scale and level of organization in ecology, and distinguish between them
-> - read and interpret a space-time (Stommel) diagram
+> - read and interpret a space-time diagram
+> - identify the scale(s) and level(s) relevant to any ecological study.
 
 {% include reading.html %}
 
