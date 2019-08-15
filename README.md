@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/31911336.svg)](https://zenodo.org/badge/latestdoi/31911336)
 
-This is a set of course materials for and Ecology course (BIOL 228) at Kenyon College. The course page was built from Ethan White et al.'s [forkable](https://help.github.com/articles/fork-a-repo/) set of teaching materials for teaching biologists how to work with data through programming, database management and computing more generally. Go there to get started on your own course!
+This is a set of course materials for an Ecology course (BIOL 228) at Kenyon College. The course page was built from Ethan White et al.'s [forkable](https://help.github.com/articles/fork-a-repo/) set of teaching materials for teaching biologists how to work with data through programming, database management and computing more generally. Go there to get started on your own course!
 
 The first attempt at using this course page is in the fall of 2019. We will see how it goes.
 
