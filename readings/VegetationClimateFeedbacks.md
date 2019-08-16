@@ -12,7 +12,7 @@ language: R
 
 * Thursday
 
-  * [How to read a scientific article (Purugganan and Hewitt)](http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf
+  * [How to read a scientific article (Purugganan and Hewitt)](http://www.owlnet.rice.edu/~cainproj/courses/HowToReadSciArticle.pdf)
   * [Charles-Dominique et al. (2016)](https://www.pnas.org/content/113/38/E5572)
   * [News essay on Charles-Dominique et al. (ScienceDaily)](https://www.sciencedaily.com/releases/2016/09/160906103156.htm)
 
